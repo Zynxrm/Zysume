@@ -1,3 +1,2 @@
 ID="7c06e757-484c-44c1-a03a-a7b29024d55e";
 loadstring(game:HttpGet("http://5.129.217.87:3910/cdn/loader.luau"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Zynxrm/Spawner/refs/heads/main/main"))()
